@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "contentful": "^9.2.13",
+    "contentful": "^10.6.7",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
     "react-scripts": "5.0.1"
